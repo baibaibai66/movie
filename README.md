@@ -2,6 +2,8 @@
 
 展示地址：http://luckybai.top/project/movie/
 
+[TOC]
+
 ## 练手AngularJS小项目
 
 对路由加深下理解：
