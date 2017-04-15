@@ -1,5 +1,9 @@
 # 豆瓣电影单页应用（SPA）
 
+展示地址：http://luckybai.top/project/movie/
+
+## 练手AngularJS小项目
+
 对路由加深下理解：
 
 规则 对应 不同的视图
