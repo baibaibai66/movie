@@ -420,7 +420,7 @@ angular中将所有的jsonp的callback都挂在angular.callbacks对象上
 
 ### angular和豆瓣妥协？ -- 还是自己写吧
 
-# 单纯先手写jsonp一遍，详细可以看这里：[地址]
+> 单纯先手写jsonp一遍，详细可以看这里：问题总结文件夹
 
 http.js
 
